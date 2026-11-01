@@ -1,1 +1,28 @@
 
+# Зависимости Node.js
+node_modules/
+
+# Сборка проекта
+dist/
+build/
+
+# Переменные окружения
+.env
+.env.local
+
+# Логи
+*.log
+npm-debug.log*
+
+# Временные файлы
+temp/
+tmp/
+
+# Настройки редактора
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
